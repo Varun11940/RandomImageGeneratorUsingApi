@@ -298,6 +298,7 @@ header {
 
 #header h2 {
   font-size: 2rem;
+  color: green;
 }
 
 #search_box {
