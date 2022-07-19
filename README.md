@@ -1,2 +1,2 @@
 # RandomImageGeneratorUsingApi
- random image generator using rapid api
+https://varun11940.github.io/RandomImageGeneratorUsingApi/
